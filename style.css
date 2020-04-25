@@ -82,7 +82,7 @@ p {
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    /* makes the portrait image round */
+    /* makes the portrait image round in shape */
     float: left;
     /* this adds the text beside the image */
 }
